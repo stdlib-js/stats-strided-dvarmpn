@@ -383,7 +383,7 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats-base/dvarm`][@stdlib/stats/base/dvarm]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array provided a known mean.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dvarm`][@stdlib/stats/strided/dvarm]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array provided a known mean.</span>
 
 </section>
 
@@ -473,7 +473,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/dvarm]: https://github.com/stdlib-js/stats-base-dvarm
+[@stdlib/stats/strided/dvarm]: https://github.com/stdlib-js/stats-strided-dvarm
 
 <!-- </related-links> -->
 
