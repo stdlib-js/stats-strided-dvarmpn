@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-10)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
@@ -38,6 +38,7 @@
 
 <details>
 
+-   [`e4701e8`](https://github.com/stdlib-js/stdlib/commit/e4701e814ce9db206690ad9f2ce8b84e5a4f4e52) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`488f765`](https://github.com/stdlib-js/stdlib/commit/488f7650b91db3e3c9170442878643715efc560d) - **refactor:** reorder parameters _(by Athan Reines)_
 -   [`ab75e22`](https://github.com/stdlib-js/stdlib/commit/ab75e229c58f150da20f42d7f2448e63d1939401) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9476523`](https://github.com/stdlib-js/stdlib/commit/9476523b10a273a2a9cbd428ae98bf6e70e66480) - **feat:** add `stats/strided/dvarmpn` _(by Gururaj Gurram)_
@@ -52,10 +53,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
